@@ -1,0 +1,229 @@
+/*Author Info
+Name:OmerHowlader
+Mail add:omerhowlader@gmail.com
+*/
+
+/*
+=====index====
+1.Fues at
+2.About
+3.Vlog
+4.Contact
+5.
+==========
+*/
+
+/*global css*/
+
+h1{
+
+}
+
+
+h2{
+
+}
+
+p{
+
+}
+
+.img-center{
+	display: block;
+	margin: 0 auto;
+}
+
+.no-padding{
+	padding: 0px;
+}
+
+
+/*header*/
+
+.nav-head{
+	background-color: #edeff1!important;
+	padding: 20px 0px;
+}
+
+.nav-link{
+	color: black;
+}
+
+.nav-link.js-scroll-trigger.active {
+	background:#dd4b2b;
+	color: #fff;
+	border-radius: 20%;
+	padding: 6px 22px;
+
+}
+
+/*--Fusce start*/
+.fusce{
+	background:url(../img/bg1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+
+.fusce h2{
+	color: #fff;
+	font-size: 52px;
+	margin-top: 400px;
+	margin-bottom: 25px;
+}
+
+.fusce p{
+	font-size: 20px;
+	color: #fff;
+	margin-bottom: 100px;
+}
+
+.one h3{
+	color: #fff;
+	margin-bottom: 20px;
+	font-size: 25px;
+}
+
+.one p{
+	font-size: 13px;
+}
+
+.btn-one{
+	background-color: #fff;
+	border-radius: 20px;
+	padding: 6px 25px;
+	border: none;
+}
+/*fusce end*/
+
+/*Facilisis start*/
+.news h2{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.two{
+	text-align: center;
+}
+
+.two h3{
+	color: black;
+	font-size: 25px;
+}
+
+.two p{
+	color: black;
+	font-size: 10px;
+	margin-bottom: 40px;
+}
+
+.btn-tw{
+	background-color: #fff;
+	border-radius: 20px;
+	padding: 6px 25px;
+	border: none;
+}
+
+.btn-two{
+	margin-top: 15px;
+	background-color: #fff;
+	border-radius: 20px;
+	padding: 6px 25px;
+	border: none;
+}
+/*Facilisis end*/
+
+/*Ante start*/
+.ante{
+	background: url(../img/bg3.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	color: #fff;
+}
+
+.three p{
+	margin-bottom:20px;
+}
+
+.form{
+	margin: 0 auto;
+	display: block;
+}
+
+.form-control{
+	color: #fff;
+	position: relative;
+	width: 70%;
+	margin-top: 20px;
+	border-radius: 20px;
+	padding: 6px 25px;
+	border: none;
+	background-color: transparent;
+
+
+}
+
+.btn-three{
+	position: absolute;
+	top: ;
+	background-color: #fff;
+	border-radius: 20px;
+	padding: 8px 25px;
+	border: none;
+	top: -1%;
+	right: 30%;
+}
+
+/*Ante end*/
+
+/*Blandit start*/
+.four h2{
+	font-size: 25px;
+	margin-bottom: 5px;
+	margin-top: 25px;
+}
+.four p{
+	margin-bottom: 5px;
+}
+
+.btn-four{
+	background-color: #dd4b2b;
+	border-radius: 20px;
+	padding: 6px 25px;
+	border: none;
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
+
+.btn-five{
+	background-color: #4b4e73;
+	border-radius: 20px;
+	padding: 6px 25px;
+	border: none;
+	margin-top: 10px;
+}
+/*Blandit end*/
+
+/*Placerat start*/
+.placerat{
+	background-color:#d75d0e;
+}
+
+.five ul li{
+	list-style: none;
+	color: #fff;
+	text-align: center;
+	padding: 4px;
+}
+/*Placerat end*/
+
+/*last start*/
+.six{
+	background: url(../img/bg3.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	color: #fff;
+}
+/*last end*/
